@@ -1,5 +1,6 @@
-Responsive Design - Resume Site Assignment
-background-image: url('https://img.freepik.com/premium-photo/black-wallpaper-that-says-black-wallpapers-black-wallpaper-black-wallpaper-black-wallpaper-black-wallpaper-black-wallpaper-black-wallpaper-black-wallpaper-black_916626-1681.jpg?w=740');
+#`Responsive Design - Resume Site Assignment`
+# background-image:
+![]('https://img.freepik.com/premium-photo/black-wallpaper-that-says-black-wallpapers-black-wallpaper-black-wallpaper-black-wallpaper-black-wallpaper-black-wallpaper-black-wallpaper-black-wallpaper-black_916626-1681.jpg?w=740')
    
 For this assignment, you will create a personal resume website using pure HTML, CSS, and JavaScript. The site should showcase your skills, experience, education, and projects in a visually appealing, easy to navigate, and mobile-friendly format.
 
